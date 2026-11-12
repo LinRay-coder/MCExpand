@@ -9,7 +9,7 @@ A **Fabric** mod for **Minecraft** that expands the game with new equipment tier
 ## Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/)  and the matching [Fabric API](https://modrinth.com/mod/fabric-api) 
-2. Download `MCExpand-x.x.x(Minecraft Version)-Fabric-x.x.x(Mod Version).jar` from [Releases](../../releases)
+2. Download `MCExpand-<MC version>-<mod version>.jar` (e.g. `MCExpand-26.3-1.0.0.jar`) from [Releases](../../releases)
 3. Drop the jar into `.minecraft/mods/`
 4. Launch — no prerequisite mods needed
 
@@ -39,7 +39,7 @@ cd fabric-mod
 ./gradlew build        # then build (do NOT chain with runDatagen)
 ```
 
-Output jar is at `fabric-mod/build/libs/`.
+Output jar is at `fabric-mod/build/libs/` (e.g. `MCExpand-26.3-1.0.0.jar`).
 
 ## License
 

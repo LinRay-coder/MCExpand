@@ -10,7 +10,7 @@ group = project.maven_group
 base {
 	// jar 命名规范：MCExpand-<MC版本>-Fabric-<mod版本>.jar
 	// 例：MCExpand-26.3-Fabric-1.1.0.jar（sources 版自动加 -sources 后缀）
-	archivesName = "${project.archives_base_name}-${project.minecraft_version}-Fabric"
+	archivesName = "${project.archives_base_name}-${project.minecraft_version}"
 }
 
 repositories {
