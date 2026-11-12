@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "mcexpand:mcexpand_sandstone",
+  "result": {
+    "id": "mcexpand:cut_mcexpand_sandstone_stairs"
+  }
+}

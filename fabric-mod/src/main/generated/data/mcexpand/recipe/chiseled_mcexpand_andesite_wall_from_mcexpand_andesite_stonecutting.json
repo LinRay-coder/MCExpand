@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "mcexpand:mcexpand_andesite",
+  "result": {
+    "id": "mcexpand:chiseled_mcexpand_andesite_wall"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "mcexpand:mcexpand_andesite",
+  "result": {
+    "id": "mcexpand:cut_mcexpand_andesite"
+  }
+}

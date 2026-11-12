@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "mcexpand:mcexpand_stone_bricks",
+  "result": {
+    "count": 2,
+    "id": "mcexpand:mcexpand_stone_bricks_slab"
+  }
+}

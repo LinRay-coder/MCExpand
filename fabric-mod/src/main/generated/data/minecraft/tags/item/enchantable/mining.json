@@ -1,16 +1,16 @@
 {
   "values": [
-    "mcplusmod:lapis_pickaxe",
-    "mcplusmod:emerald_pickaxe",
-    "mcplusmod:amethyst_pickaxe",
-    "mcplusmod:lapis_axe",
-    "mcplusmod:emerald_axe",
-    "mcplusmod:amethyst_axe",
-    "mcplusmod:lapis_shovel",
-    "mcplusmod:emerald_shovel",
-    "mcplusmod:amethyst_shovel",
-    "mcplusmod:lapis_hoe",
-    "mcplusmod:emerald_hoe",
-    "mcplusmod:amethyst_hoe"
+    "mcexpand:lapis_pickaxe",
+    "mcexpand:emerald_pickaxe",
+    "mcexpand:amethyst_pickaxe",
+    "mcexpand:lapis_axe",
+    "mcexpand:emerald_axe",
+    "mcexpand:amethyst_axe",
+    "mcexpand:lapis_shovel",
+    "mcexpand:emerald_shovel",
+    "mcexpand:amethyst_shovel",
+    "mcexpand:lapis_hoe",
+    "mcexpand:emerald_hoe",
+    "mcexpand:amethyst_hoe"
   ]
 }

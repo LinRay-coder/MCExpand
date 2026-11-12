@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mcexpand:block/smooth_mcexpand_deepslate_bricks_slab"
+    },
+    "type=double": {
+      "model": "mcexpand:block/smooth_mcexpand_deepslate_bricks"
+    },
+    "type=top": {
+      "model": "mcexpand:block/smooth_mcexpand_deepslate_bricks_slab_top"
+    }
+  }
+}

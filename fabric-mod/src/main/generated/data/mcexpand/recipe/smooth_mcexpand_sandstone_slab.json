@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": "mcexpand:smooth_mcexpand_sandstone"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcexpand:smooth_mcexpand_sandstone_slab"
+  }
+}

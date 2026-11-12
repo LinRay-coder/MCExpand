@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mcexpand_stone_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mcexpand:mcexpand_stone_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "mcexpand:cut_mcexpand_stone_bricks_stairs_from_mcexpand_stone_bricks_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_mcexpand_stone_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mcexpand:cut_mcexpand_stone_bricks_stairs_from_mcexpand_stone_bricks_stonecutting"
+    ]
+  }
+}

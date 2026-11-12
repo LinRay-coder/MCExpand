@@ -1,7 +1,7 @@
 {
   "values": [
-    "mcplusmod:lapis_pickaxe",
-    "mcplusmod:emerald_pickaxe",
-    "mcplusmod:amethyst_pickaxe"
+    "mcexpand:lapis_pickaxe",
+    "mcexpand:emerald_pickaxe",
+    "mcexpand:amethyst_pickaxe"
   ]
 }

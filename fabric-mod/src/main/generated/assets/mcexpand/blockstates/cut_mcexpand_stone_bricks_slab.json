@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mcexpand:block/cut_mcexpand_stone_bricks_slab"
+    },
+    "type=double": {
+      "model": "mcexpand:block/cut_mcexpand_stone_bricks"
+    },
+    "type=top": {
+      "model": "mcexpand:block/cut_mcexpand_stone_bricks_slab_top"
+    }
+  }
+}

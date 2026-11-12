@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "mcexpand:mcexpand_nether_bricks",
+  "result": {
+    "id": "mcexpand:mcexpand_nether_bricks_stairs"
+  }
+}

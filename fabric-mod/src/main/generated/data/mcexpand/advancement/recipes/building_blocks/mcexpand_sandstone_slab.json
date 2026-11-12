@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mcexpand_sandstone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mcexpand:mcexpand_sandstone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "mcexpand:mcexpand_sandstone_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_mcexpand_sandstone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mcexpand:mcexpand_sandstone_slab"
+    ]
+  }
+}

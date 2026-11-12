@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "mcexpand:mcexpand_deepslate_bricks",
+  "result": {
+    "id": "mcexpand:mcexpand_deepslate_bricks_stairs"
+  }
+}

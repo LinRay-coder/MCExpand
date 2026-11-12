@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "mcexpand:block/mcexpand_deepslate",
+    "side": "mcexpand:block/mcexpand_deepslate",
+    "top": "mcexpand:block/mcexpand_deepslate"
+  }
+}

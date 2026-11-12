@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mcexpand:block/smooth_mcexpand_copper_slab"
+    },
+    "type=double": {
+      "model": "mcexpand:block/smooth_mcexpand_copper"
+    },
+    "type=top": {
+      "model": "mcexpand:block/smooth_mcexpand_copper_slab_top"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "mcexpand:block/smooth_mcexpand_sandstone"
+  }
+}

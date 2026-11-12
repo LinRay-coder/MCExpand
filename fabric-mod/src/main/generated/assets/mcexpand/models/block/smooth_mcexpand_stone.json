@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mcexpand:block/smooth_mcexpand_stone"
+  }
+}

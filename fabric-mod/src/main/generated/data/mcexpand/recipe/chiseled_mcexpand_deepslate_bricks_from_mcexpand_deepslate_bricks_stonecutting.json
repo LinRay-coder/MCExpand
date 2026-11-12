@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "mcexpand:mcexpand_deepslate_bricks",
+  "result": {
+    "id": "mcexpand:chiseled_mcexpand_deepslate_bricks"
+  }
+}

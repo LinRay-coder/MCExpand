@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mcexpand:chiseled_mcexpand_copper_slab"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

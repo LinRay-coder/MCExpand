@@ -1,7 +1,7 @@
 {
   "values": [
-    "mcplusmod:lapis_sword",
-    "mcplusmod:emerald_sword",
-    "mcplusmod:amethyst_sword"
+    "mcexpand:lapis_sword",
+    "mcexpand:emerald_sword",
+    "mcexpand:amethyst_sword"
   ]
 }

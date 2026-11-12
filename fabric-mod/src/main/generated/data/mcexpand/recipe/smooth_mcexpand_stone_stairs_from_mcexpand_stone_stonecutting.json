@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "mcexpand:mcexpand_stone",
+  "result": {
+    "id": "mcexpand:smooth_mcexpand_stone_stairs"
+  }
+}

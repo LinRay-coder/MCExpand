@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mcexpand_copper": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mcexpand:mcexpand_copper"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "mcexpand:mcexpand_copper_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_mcexpand_copper"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mcexpand:mcexpand_copper_slab"
+    ]
+  }
+}

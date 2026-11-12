@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "mcexpand:block/chiseled_mcexpand_deepslate_bricks"
+  }
+}

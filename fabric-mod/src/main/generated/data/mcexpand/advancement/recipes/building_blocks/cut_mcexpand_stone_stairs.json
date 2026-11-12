@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cut_mcexpand_stone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mcexpand:cut_mcexpand_stone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "mcexpand:cut_mcexpand_stone_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cut_mcexpand_stone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mcexpand:cut_mcexpand_stone_stairs"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "mcexpand:mcexpand_sandstone",
+  "result": {
+    "count": 2,
+    "id": "mcexpand:cut_mcexpand_sandstone_slab"
+  }
+}

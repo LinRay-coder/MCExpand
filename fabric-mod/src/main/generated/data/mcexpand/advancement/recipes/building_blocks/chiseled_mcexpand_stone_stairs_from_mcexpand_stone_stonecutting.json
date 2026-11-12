@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mcexpand_stone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mcexpand:mcexpand_stone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "mcexpand:chiseled_mcexpand_stone_stairs_from_mcexpand_stone_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_mcexpand_stone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mcexpand:chiseled_mcexpand_stone_stairs_from_mcexpand_stone_stonecutting"
+    ]
+  }
+}

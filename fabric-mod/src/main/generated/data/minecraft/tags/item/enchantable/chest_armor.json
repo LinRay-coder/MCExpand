@@ -1,7 +1,7 @@
 {
   "values": [
-    "mcplusmod:lapis_chestplate",
-    "mcplusmod:emerald_chestplate",
-    "mcplusmod:amethyst_chestplate"
+    "mcexpand:lapis_chestplate",
+    "mcexpand:emerald_chestplate",
+    "mcexpand:amethyst_chestplate"
   ]
 }

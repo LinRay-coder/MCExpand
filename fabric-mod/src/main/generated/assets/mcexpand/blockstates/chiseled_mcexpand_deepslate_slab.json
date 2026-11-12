@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mcexpand:block/chiseled_mcexpand_deepslate_slab"
+    },
+    "type=double": {
+      "model": "mcexpand:block/chiseled_mcexpand_deepslate"
+    },
+    "type=top": {
+      "model": "mcexpand:block/chiseled_mcexpand_deepslate_slab_top"
+    }
+  }
+}

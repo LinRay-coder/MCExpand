@@ -1,7 +1,7 @@
 {
   "values": [
-    "mcplusmod:lapis_spear",
-    "mcplusmod:emerald_spear",
-    "mcplusmod:amethyst_spear"
+    "mcexpand:lapis_spear",
+    "mcexpand:emerald_spear",
+    "mcexpand:amethyst_spear"
   ]
 }

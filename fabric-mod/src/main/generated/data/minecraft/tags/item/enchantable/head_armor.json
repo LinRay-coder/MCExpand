@@ -1,7 +1,7 @@
 {
   "values": [
-    "mcplusmod:lapis_helmet",
-    "mcplusmod:emerald_helmet",
-    "mcplusmod:amethyst_helmet"
+    "mcexpand:lapis_helmet",
+    "mcexpand:emerald_helmet",
+    "mcexpand:amethyst_helmet"
   ]
 }

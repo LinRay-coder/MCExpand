@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mcexpand:block/mcexpand_andesite_slab"
+    },
+    "type=double": {
+      "model": "mcexpand:block/mcexpand_andesite"
+    },
+    "type=top": {
+      "model": "mcexpand:block/mcexpand_andesite_slab_top"
+    }
+  }
+}

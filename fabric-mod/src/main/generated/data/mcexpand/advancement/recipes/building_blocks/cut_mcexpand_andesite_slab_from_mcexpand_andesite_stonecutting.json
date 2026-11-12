@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mcexpand_andesite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mcexpand:mcexpand_andesite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "mcexpand:cut_mcexpand_andesite_slab_from_mcexpand_andesite_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_mcexpand_andesite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mcexpand:cut_mcexpand_andesite_slab_from_mcexpand_andesite_stonecutting"
+    ]
+  }
+}

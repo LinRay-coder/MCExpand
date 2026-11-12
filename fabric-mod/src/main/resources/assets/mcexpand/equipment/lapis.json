@@ -1,0 +1,14 @@
+{
+	"layers": {
+		"humanoid": [
+			{
+				"texture": "mcexpand:lapis"
+			}
+		],
+		"humanoid_leggings": [
+			{
+				"texture": "mcexpand:lapis"
+			}
+		]
+	}
+}

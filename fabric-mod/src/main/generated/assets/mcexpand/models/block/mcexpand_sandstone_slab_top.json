@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "mcexpand:block/mcexpand_sandstone",
+    "side": "mcexpand:block/mcexpand_sandstone",
+    "top": "mcexpand:block/mcexpand_sandstone"
+  }
+}

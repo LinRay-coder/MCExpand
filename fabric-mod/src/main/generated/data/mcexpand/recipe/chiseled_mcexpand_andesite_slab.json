@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": "mcexpand:chiseled_mcexpand_andesite"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcexpand:chiseled_mcexpand_andesite_slab"
+  }
+}

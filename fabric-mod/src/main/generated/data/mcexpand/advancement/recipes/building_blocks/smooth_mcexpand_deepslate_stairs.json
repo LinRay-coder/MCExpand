@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_smooth_mcexpand_deepslate": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mcexpand:smooth_mcexpand_deepslate"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "mcexpand:smooth_mcexpand_deepslate_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_smooth_mcexpand_deepslate"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mcexpand:smooth_mcexpand_deepslate_stairs"
+    ]
+  }
+}

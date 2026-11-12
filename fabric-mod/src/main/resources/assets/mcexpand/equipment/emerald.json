@@ -1,0 +1,14 @@
+{
+	"layers": {
+		"humanoid": [
+			{
+				"texture": "mcexpand:emerald"
+			}
+		],
+		"humanoid_leggings": [
+			{
+				"texture": "mcexpand:emerald"
+			}
+		]
+	}
+}

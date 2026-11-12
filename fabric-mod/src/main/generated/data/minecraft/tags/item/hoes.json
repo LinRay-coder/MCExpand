@@ -1,7 +1,7 @@
 {
   "values": [
-    "mcplusmod:lapis_hoe",
-    "mcplusmod:emerald_hoe",
-    "mcplusmod:amethyst_hoe"
+    "mcexpand:lapis_hoe",
+    "mcexpand:emerald_hoe",
+    "mcexpand:amethyst_hoe"
   ]
 }
