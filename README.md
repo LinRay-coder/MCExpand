@@ -1,6 +1,6 @@
 # MCExpand
 
-A **Fabric** mod for **Minecraft、** that expands the game with new equipment tiers and building blocks.
+A **Fabric** mod for **Minecraft** that expands the game with new equipment tiers and building blocks.
 
 - **Zero Mixin, zero third-party hard dependencies** — only Fabric Loader + Fabric API required, naturally low conflict potential
 - **Bilingual** — full `zh_cn` / `en_us` localization
@@ -8,7 +8,7 @@ A **Fabric** mod for **Minecraft、** that expands the game with new equipment t
 
 ## Installation
 
-1. Install [Fabric Loader](https://fabricmc.net/) (0.20.1+) and the matching [Fabric API](https://modrinth.com/mod/fabric-api) (`0.166.2+26.3`)
+1. Install [Fabric Loader](https://fabricmc.net/)  and the matching [Fabric API](https://modrinth.com/mod/fabric-api) 
 2. Download `MCExpand-x.x.x(Minecraft Version)-Fabric-x.x.x(Mod Version).jar` from [Releases](../../releases)
 3. Drop the jar into `.minecraft/mods/`
 4. Launch — no prerequisite mods needed
