@@ -10,7 +10,7 @@
 	],
 	"contact": {},
 
-	"license": "MIT",
+	"license": "GPL-3.0-only",
 	"icon": "assets/mcexpand/icon.png",
 
 	"environment": "*",
